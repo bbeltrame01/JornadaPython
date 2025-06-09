@@ -33,12 +33,12 @@ Neste projeto, foi utilizada uma base com **100.000 registros** (`clientes.csv`)
 
 ---
 
-### 💬 Aula 04 - Chat ao Vivo com Flask e Socket.IO
+### 💬 Aula 04 - Chat IA com StreamLit
 
-**Projeto:** Desenvolvimento de um chat em tempo real  
-**Tecnologias:** `Flask`, `Socket.IO`, `simple-websocket`
+**Projeto:** Desenvolvimento de um chat integrado com OpenAI e desenvolvido com StreamLit  
+**Tecnologias:** `OpenAI`, `StreamLit`
 
-Criação de um chat online onde os usuários podem conversar entre si. O sistema não armazena o histórico das conversas. Ou seja, ao recarregar a página, as mensagens anteriores são perdidas — garantindo um chat efêmero e em tempo real.
+Criação de um chat com Inteligência Artificial. O sistema foi desenvolvido utilizando a biblioteca `StreamLit` para o chat e a plataforma `OpenAI` para respostas.
 
 ---
 
